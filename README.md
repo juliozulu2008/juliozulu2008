@@ -31,7 +31,7 @@ Gosto de Desafios!
   
 </div><br/>
 
-## Apaixonado por tecnologia, Animes, Familia e Deus! Tudo isso em ordem reversa rsrsrsrs
+## Apaixonado por Tecnologia, Animes, Familia e Deus! Tudo isso em ordem reversa rsrsrsrs
 
 <br/>
 
