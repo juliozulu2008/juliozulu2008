@@ -2,7 +2,7 @@
 
 ### Sobre Mim
 
-Sou Julio Cesar, Analista Desenvolvedor WEB/Mobile com experiência em trabalhar em equipes utilizando Scrum e Squad. Tenho conhecimentos sólidos em Back-End com MVC, padrões como KISS e TDD. No Front-End, sou proficiente em JavaScript com React.js e Next.js, além de ter conhecimentos em Angular. Também tenho experiência em desenvolvimento mobile com Kotlin, e estou continuamente me aperfeiçoando em diversas linguagens e frameworks como C#, PHP, Python, Ruby e JavaScript.
+Sou Julio Cesar, Analista Desenvolvedor WEB/Mobile com experiência em trabalhar em equipes utilizando Scrum e Squad. Tenho conhecimentos sólidos em Back-End com MVC, padrões como KISS e TDD. No Front-End, sou proficiente em JavaScript com React.js e Next.js, além de ter conhecimentos em Vue.js. Também tenho experiência em desenvolvimento mobile com React Native, e estou continuamente me aperfeiçoando em diversas linguagens e frameworks como C#, Python e JavaScript.
 
 ### Tecnologias que Eu Uso
 
@@ -27,7 +27,7 @@ Sou Julio Cesar, Analista Desenvolvedor WEB/Mobile com experiência em trabalhar
 ### Projetos
 
 #### Projeto X
-Descrição breve do projeto, tecnologias utilizadas e link para o repositório.
+(em breve)
 
 ### Contato
 
